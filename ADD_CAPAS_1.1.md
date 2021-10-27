@@ -5,11 +5,11 @@
 * Date: [2021-10-27] 
 
 
-Technical Story: {Se necsita un estilo predominante para la organización de los diferentes componentes de la arquitectura} 
+Technical Story: {Se necsita un estilo para la organización de los diferentes componentes de la arquitectura} 
 
 ## Context and Problem Statement
 
-{Se necesita una arquitectura principal para poder mantener un correcto flujo de datos y así dar soporte a las peticiones de la web }
+{Se necesita una estilo para poder mantener un correcto flujo de datos y así dar soporte a las peticiones de la web }
 
 ## Decision Drivers <!-- optional -->
 *[RF_03]
